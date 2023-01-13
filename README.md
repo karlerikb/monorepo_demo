@@ -1,3 +1,16 @@
+# Links and references
+
+- https://dev.to/siddharthvenkatesh/your-first-turborepo-1lo
+- https://github.com/vercel/turbo/tree/main/examples
+- https://github.com/sidv93/turborepo-test
+- https://dev.to/_gdelgado/pitfalls-when-adding-turborepo-to-your-project-4cel
+- https://stackoverflow.com/questions/68163385/parsing-error-cannot-find-module-next-babel
+- https://betterprogramming.pub/creating-a-modern-typescript-javascript-library-with-tsup-ae55cbcae58b
+- https://turbo.build/repo/docs
+- https://github.com/mkosir/turborepo-boilerplate
+- https://vitejs.dev/guide/
+- https://github.com/agarun/turborepo-vite-starter
+
 # Turborepo starter
 
 This is an official npm starter turborepo.
