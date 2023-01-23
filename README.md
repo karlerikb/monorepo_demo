@@ -15,7 +15,11 @@
 
 Packages should be installed into apps or libraries, not into root.
 
-`npm i <package name> -w <app or library name>`, for example `npm i @mui/material -w ui`
+While in project root, run:
+
+`npm i <package name> -w <app or library name>`, for example `npm i @mui/material -w ui`, where `@mui/material` is the package name and `ui` the app or library name.
+
+`-w` means workspace. The name for this is specified in the package's or app's `package.json` file as the `name` property.
 
 # Turborepo starter
 
