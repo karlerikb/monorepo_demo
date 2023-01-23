@@ -11,6 +11,12 @@
 - https://vitejs.dev/guide/
 - https://github.com/agarun/turborepo-vite-starter
 
+## Installing packages
+
+Packages should be installed into apps or libraries, not into root.
+
+`npm i <package name> -w <app or library name>`, for example `npm i @mui/material -w ui`
+
 # Turborepo starter
 
 This is an official npm starter turborepo.
